@@ -1,6 +1,6 @@
-[submodule "Assets/Oscar"]
-	path = Assets/Oscar
+[submodule "Assets/Oscar's Module"]
+	path = Assets/Oscar's Module
 	url = https://github.com/OSCAR-hi/2025-GGJ-Oscar.git
-[submodule "Assets/Jiangliu"]
-	path = Assets/Jiangliu
+[submodule "Assets/Jiangliu's Module"]
+	path = Assets/Jiangliu's Module
 	url = https://github.com/OSCAR-hi/2025-GGJ-Jiangliu.git
